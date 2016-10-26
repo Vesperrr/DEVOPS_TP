@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/Catherine/Downloads/TP_Devops-master/VAGRANT","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
